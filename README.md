@@ -14,4 +14,5 @@
 - npx tilwindcss ini -p
 
 ## Lab-Graphcms
-- site - https://rseat.in/lab-graphcms.com
+- Site - https://graphcms.com/
+- Site RSeat - https://rseat.in/lab-graphcms.com
