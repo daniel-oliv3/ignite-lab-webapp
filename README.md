@@ -43,3 +43,12 @@
 
 
 ## 2 - Estrutura visual do projeto.
+
+## Editor - Convert SVG to valid JSX.
+- Site - https://svg2jsx.com/
+
+
+
+
+
+
