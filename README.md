@@ -17,9 +17,10 @@
 #### Roda o projeto
 - npm run dev
 
-- npm i tailwindcss postcss
+## Tailwindcss
+- npm i tailwindcss postcss autoprefixer -D
 
-- npx tilwindcss ini -p
+- npx tailwindcss ini -p
 
 ## Lab-Graphcms
 - Site - https://graphcms.com/
