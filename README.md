@@ -11,6 +11,9 @@
 #### Instalando o node_modules
 - npm install
 
+#### Ou
+- npm i
+
 #### Roda o projeto
 - npm run dev
 
