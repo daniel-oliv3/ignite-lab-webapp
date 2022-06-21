@@ -1,13 +1,12 @@
-import { useState } from 'react'
-import logo from './logo.svg'
-import './App.css'
+import React from 'react'
+
 
 function App() {
 
 
   return (
     <div>
-      <h1>Olá Mundo!</h1>
+      <h1>Olá Mundo!, Sapup3 na Área...</h1>
     </div>
   )
 }
