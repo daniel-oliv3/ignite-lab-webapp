@@ -5,6 +5,10 @@
 ## Vite.
 - Site - https://vitejs.dev/guide/
 
+## Lab-Graphcms
+- Site - https://graphcms.com/
+- Site RSeat - https://rseat.in/lab-graphcms.com
+
 #### Criando o projeto
 - npm create vite@latest
 
@@ -23,6 +27,8 @@
 ## PostCss
 - npx tailwindcss init -p
 
-## Lab-Graphcms
-- Site - https://graphcms.com/
-- Site RSeat - https://rseat.in/lab-graphcms.com
+
+
+#### Colar o codigo no arquivo tailwind.config.js.
+- Colar em content [...]
+- './src/**/*.tsx'
