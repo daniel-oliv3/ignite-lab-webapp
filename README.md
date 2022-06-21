@@ -5,8 +5,13 @@
 ## Vite.
 - Site - https://vitejs.dev/guide/
 
+#### Criando o projeto
 - npm create vite@latest
 
+#### Instalando o node_modules
+- npm install
+
+#### Roda o projeto
 - npm run dev
 
 - npm i tailwindcss postcss
