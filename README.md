@@ -1,3 +1,5 @@
+## 1 - início da especialização em ReactJS
+
 ## Figma
 - Site - https://www.figma.com/community/file/1120711251998877938
 
@@ -27,8 +29,17 @@
 ## PostCss
 - npx tailwindcss init -p
 
+## Extenções no VsCode.
+- GraphQL
+- Tailwind CSS IntelliSense
+- PostCSS Language Support
+
 
 
 #### Colar o codigo no arquivo tailwind.config.js.
 - Colar em content [...]
 - './src/**/*.tsx'
+
+
+
+## 2 - Estrutura visual do projeto.
