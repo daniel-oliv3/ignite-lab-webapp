@@ -20,7 +20,8 @@
 ## Tailwindcss
 - npm i tailwindcss postcss autoprefixer -D
 
-- npx tailwindcss ini -p
+## PostCss
+- npx tailwindcss init -p
 
 ## Lab-Graphcms
 - Site - https://graphcms.com/
