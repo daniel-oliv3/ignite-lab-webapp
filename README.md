@@ -39,6 +39,8 @@
 - Colar em content [...]
 - './src/**/*.tsx'
 
+## GraphCMS: API-first Headless CMS to Build Instant GraphQL
+- Site - https://app.graphcms.com/
 
 ## CMS - Content Management System.
 - Traz tanto o painel de Admin tanto quanto a parte visual do front-end (temas).
@@ -48,6 +50,8 @@
 ## GraphQL.
 
 GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada publicamente em 2015. É considerada uma alternativa para arquiteturas REST, além de oferecer um serviço runtime para rodar comandos e consumir uma API.
+
+- Site - https://graphql.org/
 
 
 
