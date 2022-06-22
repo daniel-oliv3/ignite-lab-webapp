@@ -4,7 +4,9 @@
 
 
 
-
+body {
+    @apply bg-zinc-900;
+}
 
 
 
