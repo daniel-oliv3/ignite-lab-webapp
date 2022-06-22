@@ -45,6 +45,12 @@
 - Headless CMS: (GraphQL) Painel de Admin (dados fornecidos atraves de uma API REST ou GraphQL).
 - React que consome essa API do CMS
 
+## GraphQL.
+
+GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada publicamente em 2015. É considerada uma alternativa para arquiteturas REST, além de oferecer um serviço runtime para rodar comandos e consumir uma API.
+
+
+
 ## 2 - Estrutura visual do projeto.
 
 ## Editor - Convert SVG to valid JSX.
