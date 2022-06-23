@@ -79,7 +79,7 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 ## Adicioando as cores no arquivo tailwindcss.config.js
 - Colar em extend: {...}
 
-colors: {
+- colors: {
   green: {
     300: '#00B37E',
     500: '#00875F',
@@ -103,7 +103,7 @@ colors: {
     700: '#121214',
     900: '#09090A'
   }
-},
+- },
 
 ## Phosphoricons
 - Site - https://phosphoricons.com/
