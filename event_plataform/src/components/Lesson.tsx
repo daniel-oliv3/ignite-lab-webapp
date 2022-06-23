@@ -1,19 +1,16 @@
 
 
+/* - */
 function Lesson() {
 
-
-
     return (
-      <div>
-        <h1>Lesson</h1>
-      </div>
+      <a href="#">
+        <span>Terça • 22 de junho • 19h00</span>
+      </a>
     )
-  }
+}
   
-  export default Lesson
-
-
+export default Lesson;
 
 
 
