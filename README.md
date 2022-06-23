@@ -77,33 +77,9 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 - Site - https://tailwindcss.com/docs/customizing-colors
 
 ## Adicioando as cores no arquivo tailwindcss.config.js
-- Colar em extend: {...}
-
-- colors: {
--  green: {
--    300: '#00B37E',
--    500: '#00875F',
--    700: '#015F43',
--  },
--  blue: {
--    500: '#81D8F7',
--  },
--  orange: {
--    500: '#FBA94C',
--  },
--  red: {
--    500: '#F75A68',
--  },
--  gray: {
--    100: '#E1E1E6',
--    200: '#C4C4CC',
--    300: '#8D8D99',
--    500: '#323238',
--    600: '#29292E',
--    700: '#121214',
--    900: '#09090A'
--  }
-- },
+#### Colar em extend: {...}
+## Tema Tailwind
+- Site - https://efficient-sloth-d85.notion.site/Aula-02-b6a8a061e55e4d2c9a5c068c6ed492c3
 
 ## Phosphoricons
 - Site - https://phosphoricons.com/
