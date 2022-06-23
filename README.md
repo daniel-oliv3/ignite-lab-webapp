@@ -9,7 +9,7 @@
 
 ## Lab-Graphcms.
 - Site - https://graphcms.com/
-- Site RSeat - https://rseat.in/lab-graphcms.com
+- Clone - https://rseat.in/lab-graphcms
 
 #### Criando o projeto.
 - npm create vite@latest
@@ -53,11 +53,11 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 
 - Site - https://graphql.org/
 
-## Graphcms
-- Clone - https://rseat.in/lab-graphcms
+- Query = buscar dados.
+- Mutation = Cria, alterar ou deletar dados.
 
 
-
+## Apolo
 
 
 ## 2 - Estrutura visual do projeto.
