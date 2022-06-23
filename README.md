@@ -82,7 +82,7 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 ## Font Family
 - fontFamily: {
 -   sans: 'Roboto, sans-serif',
-},
+- },
 
 ## Tema Tailwind
 - Site - https://efficient-sloth-d85.notion.site/Aula-02-b6a8a061e55e4d2c9a5c068c6ed492c3
