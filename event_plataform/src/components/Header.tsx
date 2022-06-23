@@ -1,3 +1,4 @@
+import { Logo } from "./Logo"
 
 
 function Header() {
@@ -6,7 +7,7 @@ function Header() {
 
     return (
       <div>
-        <h1>Header</h1>
+        <Logo />
       </div>
     )
   }
