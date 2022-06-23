@@ -1,4 +1,6 @@
 import { CheckCircle, Lock } from 'phosphor-react';
+import { isPast, format } from 'date-fns';
+import ptBR from 'date-fns/locale/pt-BR';
 
 interface LessonProps {
   title: string;
@@ -9,12 +11,15 @@ interface LessonProps {
 
 /* - */
 function Lesson(props: LessonProps) {
-  const isLessonAvailable = false;
+  const isLessonAvailable = isPast(props.availableAt);
+  const availableDateFormatted = format(props.availableAt, "EEEE' • 'd' de 'MMMM' • 'k'h'mm'", {
+    locale: ptBR,
+  });
 
     return (
       <a href="#">
         <span className="text-gray-300">
-          {props.availableAt.toString()}
+          {availableDateFormatted}
         </span>
 
         <div className="rounded border border-gray-500 p-4 mt-2">
@@ -55,5 +60,5 @@ export default Lesson;
     Autor: Daniel Oliveira
     Email: danieloliveira.webmaster@gmail.com
     Manaus/Amazonas
-    23/06/2022   
+    23/06/2022  ••• 
   */
