@@ -14,13 +14,13 @@ function Lesson() {
             <span className="text-sm text-blue-500 font-medium">
               Conteúdo liberado
             </span>
-            <span>
+            <span className="text-xs rounded py-[0.25rem] px-2 text-white border border-green-300 font-bold">
               AO VIVO
             </span>
 
           </header>
 
-          <strong>
+          <strong className="text-gray-200 mt-5 block">
             Abertura do evento Ignite labs
           </strong>
         </div>

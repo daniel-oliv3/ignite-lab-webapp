@@ -87,9 +87,6 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 ## Tema Tailwind
 - Site - https://efficient-sloth-d85.notion.site/Aula-02-b6a8a061e55e4d2c9a5c068c6ed492c3
 
-## Phosphoricons
-- Site - https://phosphoricons.com/
-
 ## Google Fonts.
 - Fonte Roboto - https://fonts.google.com/specimen/Roboto?query=roboto
 
@@ -99,6 +96,9 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 - <*link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 - <*link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"/>
 
+## Phosphoricons
+- Site - https://phosphoricons.com/
+- npm i phosphor-react
 
 
 
