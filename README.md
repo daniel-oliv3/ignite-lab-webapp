@@ -100,7 +100,11 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 - Site - https://phosphoricons.com/
 - npm i phosphor-react
 
+## Datas
+- npm i dayjs
 
+#### ou
+- npm i date-fns
 
 
 
