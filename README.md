@@ -78,6 +78,12 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 
 ## Adicioando as cores no arquivo tailwindcss.config.js
 #### Colar em extend: {...}
+
+## Font Family
+- fontFamily: {
+-   sans: 'Roboto, sans-serif',
+},
+
 ## Tema Tailwind
 - Site - https://efficient-sloth-d85.notion.site/Aula-02-b6a8a061e55e4d2c9a5c068c6ed492c3
 
@@ -89,9 +95,9 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 
 #### Colar no head do arquivo index.html
 
-- < link rel="preconnect" href="https://fonts.googleapis.com">
-- < link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-- < link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+- <*link rel="preconnect" href="https://fonts.googleapis.com"/>
+- <*link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+- <*link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"/>
 
 
 
