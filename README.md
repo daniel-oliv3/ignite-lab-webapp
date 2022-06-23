@@ -57,7 +57,8 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 - Mutation = Cria, alterar ou deletar dados.
 
 
-## Apolo
+## Apollo
+- npm i @apollo/client graphql
 
 
 ## 2 - Estrutura visual do projeto.
