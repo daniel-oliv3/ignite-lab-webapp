@@ -53,9 +53,17 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 
 - Site - https://graphql.org/
 
+## Graphcms
+- Clone - https://rseat.in/lab-graphcms
+
+
+
 
 
 ## 2 - Estrutura visual do projeto.
+
+#### Roda o projeto.
+- npm run dev
 
 ## Editor - Convert SVG to valid JSX.
 - Site - https://svg2jsx.com/
