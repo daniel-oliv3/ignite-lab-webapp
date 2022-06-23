@@ -12,22 +12,22 @@ const GET_LESSONS_QUERY = gql `
   }
 `
 
-
+interface lesson {
+  id: string;
+  title: string;
+}
 
 function App() {
 
-  useEffect(() => {
-    client.query({
-      query: GET_LESSONS_QUERY
-    }).then(response => {
-      console.log(response.data);
-    });
-  }, []);
+const { data } = useQuery<{ lessons: lesson[] }>(GET_LESSONS_QUERY);
+
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold text-violet-500">Sapup3 na Área</h1>
-    </div>
+    <ul>
+      {data?.lessons.map(lesson => {
+        return <li key={lesson.id}>{lesson.title}</li>
+      })}
+    </ul>
   )
 }
 
