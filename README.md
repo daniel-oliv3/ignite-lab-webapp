@@ -3,6 +3,9 @@
 ## Figma.
 - Site - https://www.figma.com/community/file/1120711251998877938
 
+## Material complementar.
+- Site - https://efficient-sloth-d85.notion.site/Material-complementar-86d4ef35af16471ebc3ae3eba1a378e5
+
 ### Comando para a criação do projeto.
 ## Vite.
 - Site - https://vitejs.dev/guide/
@@ -68,6 +71,12 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 
 ## Editor - Convert SVG to valid JSX.
 - Site - https://svg2jsx.com/
+
+
+## Tailwindcss Customizing Colors
+- Site - https://tailwindcss.com/docs/customizing-colors
+
+
 
 
 ## Phosphoricons
