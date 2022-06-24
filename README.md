@@ -110,6 +110,8 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 - Site - https://date-fns.org/v2.28.0/docs/format
 
 
+## 3 - Roteamento e player da aula.
+
 
 
 
