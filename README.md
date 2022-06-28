@@ -113,6 +113,7 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 ## 3 - Roteamento e player da aula.
 ## Vime-js
 - Site - https://vimejs.com/
+- npm i @vime/core @vime/react --force
 ## Video-js
 - Site https://videojs.com/
 
