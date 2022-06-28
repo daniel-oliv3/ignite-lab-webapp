@@ -1,4 +1,4 @@
-import { DiscordLogo, Lightning } from "phosphor-react"
+import { DiscordLogo, FileArrowDown, Lightning } from "phosphor-react"
 
 
 /* - */
@@ -21,7 +21,16 @@ function Video() {
               </p>
 
               <div className="flex items-center gap-4 mt-6">
-                <img src="https://github.com/daniel-oliv3.png" alt="" />
+                <img 
+                  className="h-16 w-16 rounded-full border-2 border-blue-500"
+                  src="https://github.com/daniel-oliv3.png" 
+                  alt="" 
+                />
+
+                <div className="leading-relaxed">
+                  <strong className="font-bold text-2xl block">Daniel Oliveira</strong>
+                  <span className="text-gray-200 text-sm block">Web Developer</span>
+                </div>
               </div>
             </div>
 
@@ -37,7 +46,15 @@ function Video() {
               </a>
             </div>            
           </div>
-          <div>
+
+          <div className="gap-8 mt-20 grid grid-cols-2">
+            <a href="" className="bg-gray-700 rounded overflow-hidden flex items-stretch gap-6 hover:bg-gray-600 transition-colors">
+              <div className="bg-green-700 h-full p-6 flex items-center">
+                <FileArrowDown size={40} />
+              </div>
+              <div className=""></div>
+              <div className=""></div>
+            </a>
 
           </div>
         </div>
