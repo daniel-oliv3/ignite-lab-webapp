@@ -120,6 +120,8 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 ## React DOM
 - npm i react-router-dom
 
+## 4 - Incrição via GraphQL.
+
 
 
 
