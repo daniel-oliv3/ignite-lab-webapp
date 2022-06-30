@@ -123,9 +123,9 @@ GraphQL é uma linguagem de consulta criada pelo Facebook em 2012 e lançada pub
 ## 4 - Incrição via GraphQL.
 - Colar o codigo no arquivo tailwind.config.js a baixo de extends: {...}
 
-backgroundImage: {
-    blur: 'url(/src/assets/blur-background.png)'
-},
+- backgroundImage: {
+-    blur: 'url(/src/assets/blur-background.png)'
+- },
 
 ...
 
