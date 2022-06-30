@@ -32,7 +32,7 @@ export function Subscribe(){
 
                         <button
                             type="submit"
-                            className="mt-4 bg-gray-500 uppercase py-4 rounded font-bold text-sm hover:bg-gray-700 transition-colors" 
+                            className="mt-4 bg-green-500 uppercase py-4 rounded font-bold text-sm hover:bg-green-700 transition-colors" 
                         >
                             Garantir minha vaga
                         </button>
