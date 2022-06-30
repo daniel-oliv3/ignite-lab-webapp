@@ -19,8 +19,23 @@ export function Subscribe(){
                     <strong className="text-2xl mb-6 block">Inscreva-se gratuitamente</strong>
 
                     <form action="" className="flex flex-col gap-2 w-full">
-                        <input type="text" placeholder="Seu nome completo" />
-                        <input type="email" placeholder="Digite seu e-mail" />
+                        <input
+                            className="bg-gray-900 rounded px-5 h-14" 
+                            type="text" 
+                            placeholder="Seu nome completo" 
+                        />
+                        <input 
+                            className="bg-gray-900 rounded px-5 h-14" 
+                            type="email"
+                            placeholder="Digite seu e-mail" 
+                        />
+
+                        <button
+                            type="submit"
+                            className="mt-4 bg-gray-500 uppercase py-4 rounded font-bold text-sm hover:bg-gray-700 transition-colors" 
+                        >
+                            Garantir minha vaga
+                        </button>
                     </form>
                 </div>
             </div>
